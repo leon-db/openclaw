@@ -1,0 +1,8 @@
+logs/
+credentials/
+
+# Auth profiles (tokens)
+agents/**/auth-profiles.json
+
+# macOS
+.DS_Store

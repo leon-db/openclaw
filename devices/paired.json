@@ -1,0 +1,73 @@
+{
+  "dd3c3a250bee064a089344e14b83b7723b36cb33f399c557a7b6070a4c9dcf1a": {
+    "deviceId": "dd3c3a250bee064a089344e14b83b7723b36cb33f399c557a7b6070a4c9dcf1a",
+    "publicKey": "EUp423t5SUApTHWKEyhBIE-7cZpEG9usz-p09YZSqi8",
+    "platform": "darwin",
+    "clientId": "node-host",
+    "clientMode": "node",
+    "role": "node",
+    "roles": [
+      "operator",
+      "node"
+    ],
+    "scopes": [
+      "operator.admin",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "tokens": {
+      "operator": {
+        "token": "3e0827c1e45d4d279f906e6acc686479",
+        "role": "operator",
+        "scopes": [
+          "operator.admin",
+          "operator.approvals",
+          "operator.pairing"
+        ],
+        "createdAtMs": 1770703343185,
+        "lastUsedAtMs": 1770708479298
+      },
+      "node": {
+        "token": "c79f46fe4e284724a069a6f52b782380",
+        "role": "node",
+        "scopes": [],
+        "createdAtMs": 1770703353051,
+        "lastUsedAtMs": 1770708483376
+      }
+    },
+    "createdAtMs": 1770703343185,
+    "approvedAtMs": 1770703353051,
+    "displayName": "leon"
+  },
+  "30935d7203a2cae8ac69fc9076b0eb04f6ef999a50543e4f5db4712512811ff6": {
+    "deviceId": "30935d7203a2cae8ac69fc9076b0eb04f6ef999a50543e4f5db4712512811ff6",
+    "publicKey": "7EBUZoLurziK49v8ew4XemZVCKhLnPv6m7VkNCNhIIY",
+    "platform": "MacIntel",
+    "clientId": "openclaw-control-ui",
+    "clientMode": "webchat",
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "scopes": [
+      "operator.admin",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "tokens": {
+      "operator": {
+        "token": "db01b8a8574d4af6bae2be0dc30f87a9",
+        "role": "operator",
+        "scopes": [
+          "operator.admin",
+          "operator.approvals",
+          "operator.pairing"
+        ],
+        "createdAtMs": 1770703359481,
+        "lastUsedAtMs": 1770708474462
+      }
+    },
+    "createdAtMs": 1770703359481,
+    "approvedAtMs": 1770703359481
+  }
+}

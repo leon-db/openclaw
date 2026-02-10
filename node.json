@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "nodeId": "a2cc188a-0b8b-4315-830e-f2ebeaee1773",
+  "displayName": "leon",
+  "gateway": {
+    "host": "127.0.0.1",
+    "port": 18789,
+    "tls": false
+  }
+}
