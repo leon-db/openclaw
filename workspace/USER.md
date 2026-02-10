@@ -5,8 +5,8 @@
 - **Name:** 
 - **What to call them:** 
 - **Pronouns:** *(optional)*
-- **Timezone:** 
-- **Notes:** 
+- **Timezone:** Asia/Shanghai
+- **Notes:** MySQL 数据库内核研发人员；主要使用 macOS，只有排查线上问题或开发环境用 Linux；不希望反复被问系统信息。
 
 ## Context
 

@@ -3,9 +3,9 @@
     "deviceId": "dd3c3a250bee064a089344e14b83b7723b36cb33f399c557a7b6070a4c9dcf1a",
     "publicKey": "EUp423t5SUApTHWKEyhBIE-7cZpEG9usz-p09YZSqi8",
     "platform": "darwin",
-    "clientId": "node-host",
-    "clientMode": "node",
-    "role": "node",
+    "clientId": "gateway-client",
+    "clientMode": "ui",
+    "role": "operator",
     "roles": [
       "operator",
       "node"
@@ -25,7 +25,7 @@
           "operator.pairing"
         ],
         "createdAtMs": 1770703343185,
-        "lastUsedAtMs": 1770708479298
+        "lastUsedAtMs": 1770709100601
       },
       "node": {
         "token": "c79f46fe4e284724a069a6f52b782380",
@@ -37,7 +37,7 @@
     },
     "createdAtMs": 1770703343185,
     "approvedAtMs": 1770703353051,
-    "displayName": "leon"
+    "displayName": "openclaw-tui"
   },
   "30935d7203a2cae8ac69fc9076b0eb04f6ef999a50543e4f5db4712512811ff6": {
     "deviceId": "30935d7203a2cae8ac69fc9076b0eb04f6ef999a50543e4f5db4712512811ff6",

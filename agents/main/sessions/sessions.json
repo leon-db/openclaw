@@ -1,20 +1,20 @@
 {
   "agent:main:main": {
     "sessionId": "1664618f-161b-492b-af78-78cef660cd20",
-    "updatedAt": 1770708505324,
+    "updatedAt": 1770709496867,
     "systemSent": true,
     "abortedLastRun": false,
     "chatType": "direct",
     "deliveryContext": {
-      "channel": "webchat",
+      "channel": "telegram",
       "to": "telegram:8487288685",
       "accountId": "default"
     },
-    "lastChannel": "webchat",
+    "lastChannel": "telegram",
     "origin": {
-      "label": "openclaw-tui",
-      "provider": "webchat",
-      "surface": "webchat",
+      "label": "lijian long id:8487288685",
+      "provider": "telegram",
+      "surface": "telegram",
       "chatType": "direct",
       "from": "telegram:8487288685",
       "to": "telegram:8487288685",
@@ -266,7 +266,7 @@
     "contextTokens": 128000,
     "systemPromptReport": {
       "source": "run",
-      "generatedAt": 1770708488756,
+      "generatedAt": 1770709478934,
       "sessionId": "1664618f-161b-492b-af78-78cef660cd20",
       "sessionKey": "agent:main:main",
       "provider": "github-copilot",
@@ -278,9 +278,9 @@
         "sandboxed": false
       },
       "systemPrompt": {
-        "chars": 27733,
+        "chars": 28045,
         "projectContextChars": 13368,
-        "nonProjectContextChars": 14365
+        "nonProjectContextChars": 14677
       },
       "injectedWorkspaceFiles": [
         {
@@ -489,7 +489,7 @@
           },
           {
             "name": "message",
-            "summaryChars": 110,
+            "summaryChars": 118,
             "schemaChars": 3222,
             "propertiesCount": 79
           },
@@ -571,9 +571,9 @@
     "authProfileOverride": "github-copilot:github",
     "authProfileOverrideSource": "auto",
     "authProfileOverrideCompactionCount": 0,
-    "inputTokens": 11402,
-    "outputTokens": 26,
-    "totalTokens": 21898,
+    "inputTokens": 790,
+    "outputTokens": 73,
+    "totalTokens": 23062,
     "lastTo": "telegram:8487288685",
     "lastAccountId": "default"
   }
